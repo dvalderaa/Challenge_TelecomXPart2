@@ -1,6 +1,6 @@
 # 📡 Telecom X Parte 2 — Predicción de Churn
 
-Proyecto de Machine Learning desarrollado como Challenge del curso de ML en la Especialización en Data Science.
+Proyecto de Machine Learning desarrollado como Challenge del curso de ML en la Especialización en Data Science de ALURA Latam.
 
 ## Objetivo
 Identificar los factores que más influyen en la cancelación de clientes y construir modelos predictivos para anticipar el churn.
